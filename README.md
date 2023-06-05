@@ -7,6 +7,8 @@
 
 網站整體以.NET Core MVC完成
 
+資料庫使用MS SQL，專案中使用EntityFrameWork
+
 除切換不同功能的頁面外，整體網頁基本以Ajax非同步完成
 
 依Models、Views、Controllers、ViewModels資料夾分類，另有hubs為後台DashBoard使用SignalR完成即時檢視前台線上使用人數)
